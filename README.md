@@ -20,10 +20,6 @@ The dashboard is designed for business users, analysts, and decision-makers to m
 
 ---
 
-## 📂 Project Structure
-
----
-
 ## 🛠️ Tools & Technologies
 
 - **Microsoft Power BI**
@@ -35,7 +31,7 @@ The dashboard is designed for business users, analysts, and decision-makers to m
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](https://github.com/user-attachments/assets/a57fb8f2-fe12-4ee7-b1cc-3d0e18e40421")
 
 ---
 
